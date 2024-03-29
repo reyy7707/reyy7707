@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A020F0&lines=reyys+project+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A020F0&lines=reyys+profile+)](https://git.io/typing-svg)
 
 
 ![image](https://camo.githubusercontent.com/94d2568965d92f309b090ba1e8e01664bc7655910f4cca3e358926f903c05419/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35)
