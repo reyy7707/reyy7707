@@ -23,4 +23,4 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FC8D2A?style=for-the-badge&logo=xampp&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
