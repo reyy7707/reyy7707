@@ -25,3 +25,4 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Powershell](https://skillicons.dev/icons?i=powershell)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+![Firebase](https://skillicons.dev/icons?i=firebase)
