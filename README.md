@@ -24,3 +24,4 @@
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Powershell](https://skillicons.dev/icons?i=powershell)
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
